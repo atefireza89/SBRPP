@@ -1,2 +1,18 @@
 # SBRPP
-Benchmark instances, and supplementary materials accompanying the paper on the Static Bike Rebalancing Problem with demand intervals, multiple visits, and preemption policies. Resources are provided to support reproducibility of the computational results
+# Static Bike Rebalancing Problem Resources
+
+This repository contains the resources accompanying the paper:
+
+**"Static Bike Rebalancing Problem with Demand Intervals, Multiple Visits, and Preemption Policies"**
+
+The repository provides the implementation and supplementary materials used in the computational study presented in the paper, including:
+
+* Source code for the proposed Adaptive Iterated Granular Local Search (AILS) metaheuristic.
+* MILP formulation of the Static Bike Rebalancing Problem with demand intervals.
+* Benchmark instances, including randomly generated instances and instances derived from the Bicimia bike-sharing system (Brescia, Italy), where redistribution is permitted.
+* Scripts for reproducing the computational experiments and reported results.
+* Documentation describing the input data format and execution procedure.
+
+The resources are intended to facilitate reproducibility of the computational experiments and to support future research on static bike rebalancing problems with interval-based demand and different rebalancing policies.
+
+If you use the code or datasets in your research, please cite the corresponding paper.
