@@ -7,8 +7,6 @@ This repository contains the resources accompanying the paper:
 
 The repository provides the implementation and supplementary materials used in the computational study presented in the paper, including:
 
-* Source code for the proposed Adaptive Iterated Granular Local Search (AILS) metaheuristic.
-* MILP formulation of the Static Bike Rebalancing Problem with demand intervals.
 * Benchmark instances, including randomly generated instances and instances derived from the Bicimia bike-sharing system (Brescia, Italy), where redistribution is permitted.
 * Scripts for reproducing the computational experiments and reported results.
 * Documentation describing the input data format and execution procedure.
