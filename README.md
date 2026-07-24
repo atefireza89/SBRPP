@@ -13,4 +13,4 @@ The repository provides the implementation and supplementary materials used in t
 
 The resources are intended to facilitate reproducibility of the computational experiments and to support future research on static bike rebalancing problems with interval-based demand and different rebalancing policies.
 
-If you use the code or datasets in your research, please cite the corresponding paper.
+If you use the datasets in your research, please cite the corresponding paper.
